@@ -1,0 +1,17 @@
+{
+  "name": "redux-todo-myfirstapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.14.8",
+    "redux": "^3.3.1",
+    "react-redux": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Udaya Shamendra",
+  "license": "ISC"
+}
